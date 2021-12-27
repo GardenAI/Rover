@@ -1,0 +1,10 @@
+
+relay controls from raspberry pi
+esc for rc car
+
+infrared camera
+lidar
+normal camera
+2 or 3 axis servo camera mount
+expansion board for 2 pi cameras
+wifi directional antenna and usb wifi modual
